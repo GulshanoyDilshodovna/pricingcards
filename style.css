@@ -9,7 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 100vh;
+  min-height: 100vh;
 }
 :root{
     --bg: rgb(91, 43, 223);
@@ -27,7 +27,6 @@ h1{
 }
 h2{
     font-size: 3vw;
-    margin-top: 5vw;
 }
 h3{
     font-size: 1.5vw;
